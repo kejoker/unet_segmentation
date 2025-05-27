@@ -1,4 +1,0 @@
-name: unet_segmentation_env
-channels:
-  - defaults
-prefix: /home/karljoker/miniconda3/envs/unet_segmentation_env
